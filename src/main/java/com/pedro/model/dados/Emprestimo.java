@@ -31,7 +31,7 @@ public class Emprestimo {
 	public Livro getLivro() {
 		return this.livro;
 	}
-	public void setLivro(Livr livro {
+	public void setLivro(Livro livro) {
 		this.livro = livro;
 	}
 	public Boolean getConcluido() {

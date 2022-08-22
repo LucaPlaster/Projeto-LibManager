@@ -35,5 +35,4 @@ public class Editora {
 		this.telefone = telefone;
 	}
 	
-	
 }
